@@ -16,7 +16,7 @@ class LoginViewController: UIViewController {
     
     // MARK: - Private properties
     private let user = "Roman"
-    private let password = "Password"
+    private let password = "Roman"
     
     // MARK: Navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
